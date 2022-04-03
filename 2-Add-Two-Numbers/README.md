@@ -47,3 +47,10 @@ public class ListNode {
 
 -- --
 [Source : leetcode - 2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+-- --
+## Submit Result
+### Runtime:
+3 ms, **faster than 72.12%** of Java online submissions for Add Two Numbers.
+### Memory Usage:
+Memory Usage: 48.5 MB, **less than 13.69%** of Java online submissions for Add Two Numbers.

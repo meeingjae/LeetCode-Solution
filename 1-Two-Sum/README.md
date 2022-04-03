@@ -31,3 +31,11 @@ You can return the answer in any order.
 
 -- --
 [Source : leetcode - 1. Two Sum](https://leetcode.com/problems/two-sum/)
+
+-- --
+## Submit Result
+
+### Runtime: 
+184 ms, **faster than 5.03%** of Java online submissions for Two Sum.
+### Memory Usage:
+44.6 MB, **less than 74.36%** of Java online submissions for Two Sum.

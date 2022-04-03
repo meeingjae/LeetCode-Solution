@@ -1,3 +1,5 @@
 rootProject.name = 'LeetCode-Solution'
 include '13-Roman-To-Integer'
 include '1-Two-Sum'
+include '2-Add-Two-Numbers'
+include '3-Longest-Substring-Without-Repeating-Characters'

@@ -1,6 +1,6 @@
 # 13. Roman to Integer
 
-### Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
+## Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
 >**Symbol** &nbsp;&nbsp;&nbsp;&nbsp; **Value** <br>
 I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 <br>
@@ -23,23 +23,23 @@ Given a roman numeral, convert it to an integer.
 
 
 
-**Example 1:** 
+### Example 1:
 
 > Input: s = "III"
 > 
 > Output: 3
 > 
 > Explanation: III = 3.
- 
 
-**Example 2:**
+
+### Example 2:
 > Input: s = "LVIII"
 > 
 > Output: 58
 > 
 > Explanation: L = 50, V= 5, III = 3.
 
-**Example 3:**
+### Example 3:
 
 > Input: s = "MCMXCIV"
 >
@@ -47,7 +47,7 @@ Given a roman numeral, convert it to an integer.
 > 
 > Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
-**Constraints:**
+### Constraints:
 
 * ```1``` ```<=``` ```s.length``` ```<=``` ```15```
 * ```s``` contains only the characters (``` `I` ```,``` 'V' ```,``` 'X' ```,``` 'L' ```,``` 'C' ```,``` 'D' ```,``` 'M' ```).
@@ -55,3 +55,11 @@ Given a roman numeral, convert it to an integer.
 
 -- --
 [Source : leetcode - 13. Roman To Integer](https://leetcode.com/problems/roman-to-integer/)
+
+-- --
+## Submit Result
+
+### Runtime:
+15 ms, **faster than 18.52%** of Java online submissions for Roman to Integer.
+### Memory Usage:
+47.7 MB, **less than 16.51%** of Java online submissions for Roman to Integer.

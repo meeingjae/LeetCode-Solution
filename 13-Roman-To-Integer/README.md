@@ -54,7 +54,7 @@ Given a roman numeral, convert it to an integer.
 * It is **guaranteed** that s is a valid roman numeral in the range ```[1, 3999]```.
 
 -- --
-[Source : leetcode - 13. Roman To Integer](https://leetcode.com/problems/roman-to-integer/)
+Source : [leetcode - 13. Roman To Integer](https://leetcode.com/problems/roman-to-integer/)
 
 -- --
 ## Submit Result

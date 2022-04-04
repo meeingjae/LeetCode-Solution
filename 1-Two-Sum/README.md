@@ -30,7 +30,7 @@ You can return the answer in any order.
 * **Only one valid answer exists.**
 
 -- --
-[Source : leetcode - 1. Two Sum](https://leetcode.com/problems/two-sum/)
+Source : [leetcode - 1. Two Sum](https://leetcode.com/problems/two-sum/)
 
 -- --
 ## Submit Result

@@ -46,7 +46,7 @@ public class ListNode {
 * It is guaranteed that the list represents a number that does not have leading zeros.
 
 -- --
-[Source : leetcode - 2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+Source : [leetcode - 2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
 -- --
 ## Submit Result

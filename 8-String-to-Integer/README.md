@@ -77,3 +77,9 @@ The algorithm for ```stringToInteger(string s)``` is as follows:
 
 * ```0 <= s.length <= 200```
 * ```s``` consists of English letters (lower-case and upper-case), digits (0-9), ```' '```, ```'+'```, ```'-'```, and ```'.'```.
+
+-- -- 
+Source : [leetcode - 8. String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)
+
+-- --
+## Submit result

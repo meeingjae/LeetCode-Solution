@@ -41,3 +41,9 @@ Source : [leetcode - 20. Valid Parentheses](https://leetcode.com/problems/valid-
 
 -- --
 ## Submit result
+
+###Runtime:
+2 ms, **faster than 80.30%** of Java online submissions for Valid Parentheses.
+
+### Memory Usage:
+40.3 MB, **less than 86.90%** of Java online submissions for Valid Parentheses.

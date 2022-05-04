@@ -9,3 +9,4 @@ include '6-Zigzag-Conversion'
 include '7-Reverse-Integer'
 include '8-String-to-Integer'
 include '9-Palindrome-Number'
+// 문제 9 이후로 root 프로젝트에 import는 잠시 중단한다

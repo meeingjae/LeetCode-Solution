@@ -22,7 +22,7 @@ Return the head of the merged linked list.
 > 
 > **Output:** []
 
-### Example 1:
+### Example 3:
 
 > **Input:** list1 = [], list2 = [0]
 >

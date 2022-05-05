@@ -34,5 +34,7 @@ Source : [leetcode - 27. Remove Element](https://leetcode.com/problems/remove-el
 ## Submit result
 
 ###Runtime:
+0 ms, **faster than 100.00%** of Java online submissions for Remove Element.
 
 ### Memory Usage:
+40.9 MB, **less than 84.71%** of Java online submissions for Remove Element.

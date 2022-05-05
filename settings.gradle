@@ -9,4 +9,6 @@ include '6-Zigzag-Conversion'
 include '7-Reverse-Integer'
 include '8-String-to-Integer'
 include '9-Palindrome-Number'
-// 문제 9 이후로 root 프로젝트에 import는 잠시 중단한다
+include '26-Remove-Duplicates-from-Sorted-Array'
+include '27-Remove-Element'
+// 문제 9 이후로 특이 사항이 없는 경우 include는 중단한다.

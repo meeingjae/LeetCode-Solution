@@ -36,7 +36,9 @@ Source : [leetcode - 35. Search Insert Position](https://leetcode.com/problems/s
 -- --
 ## Submit result
 
-###Runtime:
+###Runtime: 
+1 ms, **faster than 8.61%** of Java online submissions for Search Insert Position.
 
 ### Memory Usage:
+43.3 MB, **less than 59.86%** of Java online submissions for Search Insert Position.
 

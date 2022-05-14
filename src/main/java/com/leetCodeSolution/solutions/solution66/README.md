@@ -38,6 +38,7 @@ Source : [leetcode - 66. Plus One](https://leetcode.com/problems/plus-one/)
 ## Submit result
 
 ###Runtime: 
-
+6 ms, **faster than 5.83%** of Java online submissions for Plus One.
 
 ### Memory Usage:
+43.1 MB, **less than 8.05%** of Java online submissions for Plus One.

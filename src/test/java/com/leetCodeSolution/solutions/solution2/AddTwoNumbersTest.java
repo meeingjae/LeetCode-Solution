@@ -3,6 +3,8 @@ package com.leetCodeSolution.solutions.solution2;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import com.leetCodeSolution.common.ListNode;
+
 @SpringBootTest
 class AddTwoNumbersTest {
 

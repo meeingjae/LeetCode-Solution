@@ -1,5 +1,7 @@
 package com.leetCodeSolution.solutions.solution2;
 
+import com.leetCodeSolution.common.ListNode;
+
 public class AddTwoNumbers {
 
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {

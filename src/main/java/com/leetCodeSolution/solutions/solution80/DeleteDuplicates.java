@@ -1,6 +1,6 @@
 package com.leetCodeSolution.solutions.solution80;
 
-import com.leetCodeSolution.solutions.solution2.ListNode;
+import com.leetCodeSolution.common.ListNode;
 
 public class DeleteDuplicates {
     public static ListNode deleteDuplicates(ListNode head) {

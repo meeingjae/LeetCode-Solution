@@ -1,4 +1,4 @@
-package com.leetCodeSolution.solutions.solution2;
+package com.leetCodeSolution.common;
 
 public class ListNode {
 

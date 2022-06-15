@@ -4,7 +4,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.jupiter.api.Test;
 
-import com.leetCodeSolution.solutions.solution2.ListNode;
+import com.leetCodeSolution.common.ListNode;
 
 public class DeleteDuplicatesTest {
 

@@ -35,5 +35,7 @@ Source : [leetcode - 94. Binary Tree Inorder Traversal](https://leetcode.com/pro
 ## Submit result
 
 ###Runtime: 
+0 ms, **faster than 100.00%** of Java online submissions for Binary Tree Inorder Traversal.
 
 ### Memory Usage:
+42.1 MB, **less than 51.40%** of Java online submissions for Binary Tree Inorder Traversal.

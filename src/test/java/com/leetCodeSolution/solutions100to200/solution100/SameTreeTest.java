@@ -1,4 +1,4 @@
-package com.leetCodeSolution.solutions100to200;
+package com.leetCodeSolution.solutions100to200.solution100;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

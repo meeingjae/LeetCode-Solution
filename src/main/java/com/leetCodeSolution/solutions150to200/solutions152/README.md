@@ -39,5 +39,7 @@ Source : [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-p
 ## Submit Result
 
 ### Runtime:
+3 ms, **faster than 39.75%** of Java online submissions for Maximum Product Subarray.
 
 ### Memory Usage:
+44.7 MB, **less than 57.05%** of Java online submissions for Maximum Product Subarray.

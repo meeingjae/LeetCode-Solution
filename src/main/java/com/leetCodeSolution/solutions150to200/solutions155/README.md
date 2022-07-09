@@ -52,5 +52,7 @@ Source : [155. Min Stack](https://leetcode.com/problems/min-stack/)
 ## Submit Result
 
 ### Runtime:
+666 ms, **faster than 5.00%** of Java online submissions for Min Stack.
 
 ### Memory Usage:
+50.5 MB, **less than 5.67%** of Java online submissions for Min Stack.

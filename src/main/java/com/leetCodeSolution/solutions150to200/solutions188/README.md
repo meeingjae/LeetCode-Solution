@@ -39,5 +39,7 @@ Source : [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems
 ## Submit Result
 
 ### Runtime:
+3 ms, **faster than 77.56%** of Java online submissions for Best Time to Buy and Sell Stock IV.
 
 ### Memory Usage:
+42.5 MB, **less than 61.29%** of Java online submissions for Best Time to Buy and Sell Stock IV.

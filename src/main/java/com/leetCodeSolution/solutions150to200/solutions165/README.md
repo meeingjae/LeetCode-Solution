@@ -52,5 +52,7 @@ Source : [165. Compare Version Numbers](https://leetcode.com/problems/compare-ve
 ## Submit Result
 
 ### Runtime:
+1 ms, **faster than 88.94%** of Java online submissions for Compare Version Numbers.
 
 ### Memory Usage:
+42.7 MB, **less than 7.39%** of Java online submissions for Compare Version Numbers.

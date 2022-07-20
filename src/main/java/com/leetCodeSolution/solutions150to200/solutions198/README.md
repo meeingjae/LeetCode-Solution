@@ -42,5 +42,7 @@ Source : [198. House Robber](https://leetcode.com/problems/house-robber/)
 ## Submit Result
 
 ### Runtime:
+0 ms, **faster than 100.00%** of Java online submissions for House Robber.
 
 ### Memory Usage:
+41.6 MB, **less than 37.89%** of Java online submissions for House Robber.

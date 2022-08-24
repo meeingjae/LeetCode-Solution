@@ -33,7 +33,7 @@ Source : [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwi
 ## Submit Result
 
 ### Runtime:
-0 ms, **faster than 100.00%** of Java online submissions for House Robber.
+11 ms, **faster than 28.75%** of Java online submissions for House Robber.
 
 ### Memory Usage:
-41.6 MB, **less than 37.89%** of Java online submissions for House Robber.
+44.4 MB, **less than 42.88%** of Java online submissions for House Robber.

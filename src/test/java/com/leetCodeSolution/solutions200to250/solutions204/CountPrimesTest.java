@@ -12,6 +12,16 @@ public class CountPrimesTest {
         //when:
         int result = CountPrimes.countPrimes(num);
         //then:
-        assertThat(result).isEqualTo(4);
+        assertThat(result).isEqualTo(4);    // 2,3,5,7
+    }
+
+    @Test
+    void 성공_2() {
+        //given:
+        int num = 18;
+        //when:
+        int result = CountPrimes.countPrimes(num);
+        //then:
+        assertThat(result).isEqualTo(7);    // 2,3,5,7,11,13,17
     }
 }

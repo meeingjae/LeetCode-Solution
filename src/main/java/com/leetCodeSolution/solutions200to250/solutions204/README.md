@@ -35,7 +35,7 @@ Source : [204. Count Primes](https://leetcode.com/problems/count-primes/)
 ## Submit Result
 
 ### Runtime:
-11 ms, **faster than 28.75%** of Java online submissions for House Robber.
+678 ms, **faster than 5.02%** of Java online submissions for Count Primes.
 
 ### Memory Usage:
-44.4 MB, **less than 42.88%** of Java online submissions for House Robber.
+68.6 MB, **less than 48.08%** of Java online submissions for Count Primes.

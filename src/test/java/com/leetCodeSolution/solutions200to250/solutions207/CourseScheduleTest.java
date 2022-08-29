@@ -27,4 +27,15 @@ public class CourseScheduleTest {
         //then:
         assertThat(result).isFalse();
     }
+
+    @Test
+    void 실패() {
+        //given:
+        int numCources = 4;
+        int[][] prerequisites = { { 3, 2 }, { 2, 1 }, { 1, 0 }, { 0, 3 }, { 3, 1 }, { 0, 2 } };
+        //when:
+        boolean result = CourseSchedule.cource(numCources, prerequisites);
+        //then:
+        assertThat(result).isFalse();
+    }
 }

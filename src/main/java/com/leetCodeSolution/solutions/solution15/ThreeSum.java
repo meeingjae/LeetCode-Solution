@@ -1,15 +1,29 @@
 package com.leetCodeSolution.solutions.solution15;
 
-import java.util.Collections;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class ThreeSum {
-    public ThreeSum(int[] input) {
 
-    }
+    public static List<List<Integer>> sum(int[] nums) {
 
-    public List<List<Integer>> sum() {
+        Set<List<Integer>> res = new HashSet<>();
+        if (nums.length == 0) { return new ArrayList<>(res); }
+        Arrays.sort(nums);
+        for (int i = 0; i < nums.length - 2; i++) {
+            int j = i + 1;
+            int k = nums.length - 1;
+            while (j < k) {
+                int sum = nums[i] + nums[j] + nums[k];
+                if (sum == 0) { res.add(Arrays.asList(nums[i], nums[j++], nums[k--])); } else if (sum > 0) {
+                    k--;
+                } else if (sum < 0) { j++; }
+            }
 
-        return Collections.emptyList();
+        }
+        return new ArrayList<>(res);
     }
 }

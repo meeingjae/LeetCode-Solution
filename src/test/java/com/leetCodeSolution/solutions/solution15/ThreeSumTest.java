@@ -13,8 +13,7 @@ public class ThreeSumTest {
         //given:
         int[] input = { -1, 0, 1, 2, -1, -4 };
         //when:
-        ThreeSum threeSum = new ThreeSum(input);
-        List<List<Integer>> result = threeSum.sum();
+        List<List<Integer>> result = ThreeSum.sum(input);
         //then:
         assertThat(result).hasSize(2);
         assertThat(result.get(0)).hasSize(3);

@@ -18,7 +18,9 @@ public class ThreeSum {
             int k = nums.length - 1;
             while (j < k) {
                 int sum = nums[i] + nums[j] + nums[k];
-                if (sum == 0) { res.add(Arrays.asList(nums[i], nums[j++], nums[k--])); } else if (sum > 0) {
+                if (sum == 0) {
+                    res.add(Arrays.asList(nums[i], nums[j++], nums[k--]));
+                } else if (sum > 0) {
                     k--;
                 } else if (sum < 0) { j++; }
             }

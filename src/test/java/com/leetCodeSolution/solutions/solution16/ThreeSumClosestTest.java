@@ -16,4 +16,26 @@ public class ThreeSumClosestTest {
         //then:
         assertThat(result).isEqualTo(2);
     }
+
+    @Test
+    void 성공_2() {
+        //given:
+        int[] nums = {0,0,0};
+        int target = 1;
+        //when:
+        int result = ThreeSumClosest.threeSumClosest(nums, target);
+        //then:
+        assertThat(result).isEqualTo(0);
+    }
+
+    @Test
+    void 성공_3() {
+        //given:
+        int[] nums = {1,1,1,1};
+        int target = 4;
+        //when:
+        int result = ThreeSumClosest.threeSumClosest(nums, target);
+        //then:
+        assertThat(result).isEqualTo(3);
+    }
 }

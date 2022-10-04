@@ -37,3 +37,5 @@ Source : [leetcode - 16. 3Sum Closest](https://leetcode.com/problems/3sum-closes
 -- --
 
 ## Submit result
+* **Runtime**: 108 ms, **faster than 38.10%** of Java online submissions for 3Sum Closest.
+* **Memory Usage**: 48.4 MB, **less than 77.62%** of Java online submissions for 3Sum Closest.

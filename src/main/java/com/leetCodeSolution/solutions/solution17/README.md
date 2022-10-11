@@ -40,5 +40,5 @@ Source : [17. Letter Combinations of a Phone Number](https://leetcode.com/proble
 
 ## Submit result
 
-* **Runtime**: 
-* **Memory Usage**: 
+* **Runtime**: 11 ms, **faster than 13.78%** of Java online submissions for Letter Combinations of a Phone Number.
+* **Memory Usage**: 43.1 MB, **less than 26.27%** of Java online submissions for Letter Combinations of a Phone Number.

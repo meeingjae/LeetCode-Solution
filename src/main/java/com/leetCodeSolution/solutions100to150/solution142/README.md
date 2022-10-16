@@ -51,6 +51,7 @@ Source : [142. Linked List Cycle II
 
 ## Submit Result
 
-### Runtime:
+### Runtime: **1 ms**, **faster than 74.29%** of Java online submissions for Linked List Cycle II.
 
-### Memory Usage:
+
+### Memory Usage: 44.9 MB, **less than 66.54%** of Java online submissions for Linked List Cycle II.

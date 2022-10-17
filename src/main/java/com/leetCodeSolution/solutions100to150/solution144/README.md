@@ -35,6 +35,6 @@ Source : [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/bin
 
 ## Submit Result
 
-### Runtime: 
+### Runtime: 0 ms, **faster than 100.00%** of Java online submissions for Binary Tree Preorder Traversal.
 
-### Memory Usage: 
+### Memory Usage: 42 MB, **less than 64.76%** of Java online submissions for Binary Tree Preorder Traversal.

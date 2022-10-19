@@ -12,13 +12,12 @@ Given the `root` of a binary tree, return the preorder traversal of its nodes' v
 
 ### Example 2:
 
-![](img/example2.png)
 > **Input** : root = []
 >
 > **Output** : []
 
-> ### Example 3:
-![](img/example3.png)
+### Example 3:
+
 > **Input** : root = [1]
 >
 > **Output** : [1]
@@ -35,6 +34,8 @@ Source : [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/bin
 
 ## Submit Result
 
-### Runtime: 0 ms, **faster than 100.00%** of Java online submissions for Binary Tree Preorder Traversal.
+### Runtime: 
+0 ms, **faster than 100.00%** of Java online submissions for Binary Tree Preorder Traversal.
 
-### Memory Usage: 42 MB, **less than 64.76%** of Java online submissions for Binary Tree Preorder Traversal.
+### Memory Usage: 
+42 MB, **less than 64.76%** of Java online submissions for Binary Tree Preorder Traversal.

@@ -41,5 +41,7 @@ Source : [143. Reorder List](https://leetcode.com/problems/reorder-list/)
 ## Submit Result
 
 ### Runtime:
+8 ms, **faster than 31.52%** of Java online submissions for Reorder List.
 
 ### Memory Usage:
+53.7 MB, **less than 69.58%** of Java online submissions for Reorder List.

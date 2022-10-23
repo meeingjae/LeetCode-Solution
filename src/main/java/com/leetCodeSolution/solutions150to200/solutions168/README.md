@@ -47,5 +47,7 @@ Source : [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-she
 ## Submit Result
 
 ### Runtime:
+7 ms, **faster than 31.34%** of Java online submissions for Excel Sheet Column Title.
 
 ### Memory Usage:
+39.8 MB, **less than 87.87%** of Java online submissions for Excel Sheet Column Title.

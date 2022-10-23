@@ -35,4 +35,12 @@ public class ExcelSheetColumnTitleTest {
         //then:
         assertThat(res).isEqualTo("ZY");
     }
+
+    @Test
+    void charCalcTest() {
+        char b = 'A' + 1;
+        char z = 'A' + 25;
+        assertThat(b).isEqualTo('B');
+        assertThat(z).isEqualTo('Z');
+    }
 }

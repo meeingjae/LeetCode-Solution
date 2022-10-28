@@ -29,7 +29,7 @@ AB -> 28
 >
 > **Output** : "AB"
 
-### Example 2:
+### Example 3:
 
 > **Input** : columnNumber = 701
 >

@@ -43,7 +43,7 @@ public class RemoveLinkedListElementsTest {
         final int val = 1;
         //when:
         ListNode result = RemoveLinkedListElements.removeElements(listNode, val);
-        assertThat(result.val).isNull();
+        assertThat(result).isNull();
     }
 
     @Test
@@ -54,6 +54,6 @@ public class RemoveLinkedListElementsTest {
         final int val = 7;
         //when:
         ListNode result = RemoveLinkedListElements.removeElements(listNode, val);
-        assertThat(result.val).isNull();
+        assertThat(result).isNull();
     }
 }

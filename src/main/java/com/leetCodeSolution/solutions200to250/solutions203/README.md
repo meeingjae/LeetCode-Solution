@@ -35,6 +35,6 @@ Source : [203. Remove Linked List Elements](https://leetcode.com/problems/remove
 
 ## Submit Result
 
-### Runtime:
+### Runtime: 97.77% good
 
-### Memory Usage:
+### Memory Usage: 79.91% good

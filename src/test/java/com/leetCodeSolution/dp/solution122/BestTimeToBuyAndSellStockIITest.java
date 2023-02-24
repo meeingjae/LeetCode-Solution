@@ -38,4 +38,37 @@ public class BestTimeToBuyAndSellStockIITest {
         //then:
         assertThat(result).isEqualTo(expected);
     }
+
+    @Test
+    void test4() {
+        //given:
+        final int[] prices = { 7, 1, 5, 3, 6, 4 };
+        final int expected = 7;
+        //when:
+        final int result = BestTimeToBuyAndSellStockII.maxProfit2(prices);
+        //then:
+        assertThat(result).isEqualTo(expected);
+    }
+
+    @Test
+    void test5() {
+        //given:
+        final int[] prices = { 1, 2, 3, 4, 5 };
+        final int expected = 4;
+        //when:
+        final int result = BestTimeToBuyAndSellStockII.maxProfit2(prices);
+        //then:
+        assertThat(result).isEqualTo(expected);
+    }
+
+    @Test
+    void test6() {
+        //given:
+        final int[] prices = { 6, 5, 4, 3, 1 };
+        final int expected = 0;
+        //when:
+        final int result = BestTimeToBuyAndSellStockII.maxProfit2(prices);
+        //then:
+        assertThat(result).isEqualTo(expected);
+    }
 }

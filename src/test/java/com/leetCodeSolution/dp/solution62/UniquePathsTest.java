@@ -29,4 +29,16 @@ public class UniquePathsTest {
         //then:
         assertThat(result).isEqualTo(expected);
     }
+
+    @Test
+    void test3() {
+        //given:
+        final int m = 51;
+        final int n = 9;
+        final int expected = 1916797311;
+        //when:
+        final int result = UniquePaths.uniquePaths(m,n);
+        //then:
+        assertThat(result).isEqualTo(expected);
+    }
 }

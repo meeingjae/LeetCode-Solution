@@ -13,7 +13,7 @@ public class UniquePathsTest {
         final int n = 7;
         final int expected = 28;
         //when:
-        final int result = UniquePaths.uniquePaths(m,n);
+        final int result = UniquePaths.uniquePaths(m, n);
         //then:
         assertThat(result).isEqualTo(expected);
     }
@@ -25,7 +25,7 @@ public class UniquePathsTest {
         final int n = 2;
         final int expected = 3;
         //when:
-        final int result = UniquePaths.uniquePaths(m,n);
+        final int result = UniquePaths.uniquePaths(m, n);
         //then:
         assertThat(result).isEqualTo(expected);
     }
@@ -37,7 +37,79 @@ public class UniquePathsTest {
         final int n = 9;
         final int expected = 1916797311;
         //when:
-        final int result = UniquePaths.uniquePaths(m,n);
+        final int result = UniquePaths.uniquePaths(m, n);
+        //then:
+        assertThat(result).isEqualTo(expected);
+    }
+
+    @Test
+    void test4() {
+        //given:
+        final int m = 3;
+        final int n = 7;
+        final int expected = 28;
+        //when:
+        final int result = UniquePaths.memoization(m, n);
+        //then:
+        assertThat(result).isEqualTo(expected);
+    }
+
+    @Test
+    void test5() {
+        //given:
+        final int m = 3;
+        final int n = 2;
+        final int expected = 3;
+        //when:
+        final int result = UniquePaths.memoization(m, n);
+        //then:
+        assertThat(result).isEqualTo(expected);
+    }
+
+    @Test
+    void test6() {
+        //given:
+        final int m = 51;
+        final int n = 9;
+        final int expected = 1916797311;
+        //when:
+        final int result = UniquePaths.memoization(m, n);
+        //then:
+        assertThat(result).isEqualTo(expected);
+    }
+
+    @Test
+    void test7() {
+        //given:
+        final int m = 3;
+        final int n = 7;
+        final int expected = 28;
+        //when:
+        final int result = UniquePaths.dp(m, n);
+        //then:
+        assertThat(result).isEqualTo(expected);
+    }
+
+    @Test
+    void test8() {
+        //given:
+        final int m = 3;
+        final int n = 2;
+        final int expected = 3;
+        //when:
+        final int result = UniquePaths.dp(m, n);
+        //then:
+        assertThat(result).isEqualTo(expected);
+    }
+
+    @Test
+    void test9() {
+        //given:
+        final int m = 51;
+        final int n = 9;
+        final int expected = 1916797311;
+        //when:
+        final int result = UniquePaths.dp(m, n);
         //then:
         assertThat(result).isEqualTo(expected);
     }

@@ -31,7 +31,7 @@ public class SwapNodeInPairTest {
         //when:
         final ListNode result = SwapNodeInPair.swapPairs(head);
         //then:
-        assertThat(result.val).isNull();
+        assertThat(result.val).isEqualTo(0);
     }
 
     @Test

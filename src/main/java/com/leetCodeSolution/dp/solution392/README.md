@@ -1,4 +1,4 @@
-# 338. Counting Bits[README.md](..%2Fsolution338%2FREADME.md)
+# 338. Counting Bits
 
 -- --
 Given two strings `s` and `t`, return `true` if `s` is a **subsequence** of `t`, or `false` otherwise.

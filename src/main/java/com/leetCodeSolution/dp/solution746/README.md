@@ -55,3 +55,9 @@ Source : [leetcode - 746. Min Cost Climbing Stairs](https://leetcode.com/problem
 -- --
 
 ### 풀이
+
+계단의 최소값은 앞에서부터 진행 시 알기 어렵다
+
+따라서 배열의 뒤에서부터 최소값을 계산하여 
+
+앞으로 간 뒤, 결과적으로 최소 값을 구하도록 한다
